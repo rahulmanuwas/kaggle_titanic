@@ -1,1 +1,3 @@
-# kaggle_titanic
+First Data Science project. 
+
+Contains all preliminary codes. 
